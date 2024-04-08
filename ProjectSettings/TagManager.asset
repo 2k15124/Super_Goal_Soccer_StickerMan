@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - goal
+  - LineController
+  - Ball
+  - Plane
   layers:
   - Default
   - TransparentFX
